@@ -26,7 +26,6 @@ Material:
     m_Ints: []
     m_Floats:
     - _Dark: 1
-    - _HeadingSpeed: 0
-    - _Seed: 5173
+    - _Seed: 1
     m_Colors: []
   m_BuildTextureStacks: []
