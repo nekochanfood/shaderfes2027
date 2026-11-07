@@ -11,4 +11,4 @@ ShaderFes 2027 で展示させていただいた、CoverRail と Flying のソ�
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © 2026 nekochanfood. Attribution required.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © 2026 nekochanfood
