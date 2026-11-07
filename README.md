@@ -4,8 +4,8 @@ ShaderFes 2027 で展示させていただいた、CoverRail と Flying のソ�
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="Flying.png" alt="Flying" width="100%"><br><b>Flying</b></td>
-    <td align="center" width="50%"><img src="CoverRail.png" alt="CoverRail" width="100%"><br><b>CoverRail</b></td>
+    <td align="center" width="50%"><img src="Flying.png" alt="Flying" width="100%"><br><b>Flying (汎用)</b></td>
+    <td align="center" width="50%"><img src="CoverRail.png" alt="CoverRail" width="100%"><br><b>CoverRail (要スクリプト)</b></td>
   </tr>
 </table>
 
