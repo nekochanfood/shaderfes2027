@@ -2,6 +2,11 @@
 
 CoverRail / Flying シェーダーと、その生成ツールのソースコード（CC BY 4.0）。Unity プロジェクトではなくアセット集です。
 
+<p>
+  <img src="Flying.png" alt="Flying" width="400">
+  <img src="CoverRail.png" alt="CoverRail" width="400">
+</p>
+
 ## 使い方
 VRChat ワールド用の簡易 Unity プロジェクトです（Unity 2022.3.22f1）。VCC（VRChat Creator Companion）で「Add Existing Project」して開き、パッケージを解決してください。
 `Assets/main.unity` を開くと全シェーダーを一通り確認できます（Play で ClientSim、または VRChat SDK からアップロード可能）。
