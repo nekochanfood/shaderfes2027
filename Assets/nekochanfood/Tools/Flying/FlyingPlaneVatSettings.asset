@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0758226e1208cb54a94c2d51656457ac, type: 3}
+  m_Name: FlyingPlaneVatSettings
+  m_EditorClassIdentifier: 
+  subCount: 8
+  spawnInterval: 1
+  respawnDelayMin: 0
+  respawnDelayMax: 1
+  followFactor: 0.35
+  turnFollowFactor: 0.8
+  turnStageRadius: 28

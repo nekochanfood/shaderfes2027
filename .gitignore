@@ -1,0 +1,18 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+__pycache__/
+# VRChat packages are resolved by VCC from Packages/vpm-manifest.json
+/Packages/com.vrchat.*/
+/Packages/idv.jlchntoz.*/
+/Packages/packages-lock.json
+/Assets/SerializedUdonPrograms/
+/Assets/SerializedUdonPrograms.meta
+/Assets/UdonSharp/
+/Assets/UdonSharp.meta
+/.vscode/
