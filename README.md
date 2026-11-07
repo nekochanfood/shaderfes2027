@@ -1,6 +1,6 @@
 # shaderfes2027
 
-CoverRail / Flying シェーダーと、その生成ツールのソースコード（MIT）。Unity プロジェクトではなくアセット集です。
+CoverRail / Flying シェーダーと、その生成ツールのソースコード（CC BY 4.0）。Unity プロジェクトではなくアセット集です。
 
 ## 使い方
 VRChat ワールド用の簡易 Unity プロジェクトです（Unity 2022.3.22f1）。VCC（VRChat Creator Companion）で「Add Existing Project」して開き、パッケージを解決してください。
@@ -12,7 +12,6 @@ VRChat ワールド用の簡易 Unity プロジェクトです（Unity 2022.3.22
 | `nekochanfood/Shaders/CoverRail` | CoverRail シェーダー・マテリアル・履歴用 CustomRenderTexture・カバーアトラス |
 | `nekochanfood/Shaders/Flying` | FlyingPlane シェーダー・HLSL・VAT |
 | `nekochanfood/Udon` | CoverRailHistory 用 CRT 更新 UdonSharp スクリプト |
-| `nekochanfood/Tools/Main` | main シーン生成エディタースクリプト |
 | `nekochanfood/Tools/CoverRail` | アトラス生成 Python (`CoverRailAtlas.py` 等) とシェーダーテスト |
 | `nekochanfood/Tools/Flying` | VAT ベイカー (メニュー: Tools > nekochanfood > Bake Flying Plane VAT) |
 
