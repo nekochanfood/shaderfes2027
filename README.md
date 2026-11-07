@@ -17,3 +17,7 @@ VRChat ワールド用の簡易 Unity プロジェクトです（Unity 2022.3.22
 | `nekochanfood/Tools/Flying` | VAT ベイカー (メニュー: Tools > nekochanfood > Bake Flying Plane VAT) |
 
 アトラス再生成: `python nekochanfood/Tools/CoverRail/CoverRailAtlas.py`（numpy, Pillow が必要）
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © 2026 nekochanfood. Attribution required.
